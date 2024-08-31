@@ -46,7 +46,7 @@
     "signals": "^1.0.0",
     "style-loader": "^0.10.1",
     "superagent": "^1.2.0",
-    "webpack": "^1.8.4",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^1.8.0",
     "when": "^3.7.2"
   }
